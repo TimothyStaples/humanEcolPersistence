@@ -1,0 +1,18 @@
+## Ran on Thu Jun 12 14:58:24 2025 
+
+Cal 0 : ConstCal;
+Cal 1 :  IntCal20 ,  0 ;
+Cal 2 :  Marine20 ;
+Cal 3 :  SHCal20 ,  0 ;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : 613764 ,  -19,  266,  16,  0,  0,  3,  4,  0;
+Det 1 : 613766 , -5, 266, 22.5;
+Det 2 : 613765 , 424, 266, 35.5;
+Det 3 : 613762 , 5814, 266, 45.5;
+Det 4 : 613763 , 7888, 266, 61.5;
+Det 5 : 613768 , 5288, 266, 69.5;
+Det 6 : 613767 , 2583, 266, 75.5;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixNor, 14,  -75,  1e+06,  316,  -34,  5,  5,  1.5,  0.1, 16, 86, 923595;

@@ -1,0 +1,3 @@
+depth	min	max	median	mean
+44.5	-46	282	115	114
+85	335	816	567	571

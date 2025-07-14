@@ -1,0 +1,15 @@
+﻿cat,notes,depth,age,ageError,comments
+stadial,Start of GS-1,1526.52,"12,896",138,"3, 5"
+interstadial,Start of GI-1a,1534.5,"13,099",143,6
+interstadial,Start of GI-1b,1542.1,"13,311",149,6
+interstadial,Start of GI-1c1,1554.75,"13,600",156,13
+interstadial,Start of GI-1c2,1557.08,"13,660",158,13
+interstadial,Start of GI-1c3,1570.5,"13,954",165,6
+interstadial,Start of GI-1d,1574.8,"14,075",169,3
+interstadial,Start of GI-1e,1604.64,"14,692",186,"3, 5"
+stadial,Start of GS-2.1a,1669.09,"17,480",330,"8, 13"
+stadial,Start of GS-2.1b,1745.31,"20,900",482,"7, 8"
+stadial,Start of GS-2.1c,1783.62,"22,900",573,"7, 8"
+interstadial,Start of GI-2.1,1786.28,"23,020",583,"8, 13"
+stadial,Start of GS-2.2,1790.26,"23,220",590,"8, 13"
+interstadial,Start of GI-2.2,1793.19,"23,340",596,"7, 8, 9"
